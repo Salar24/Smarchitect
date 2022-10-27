@@ -58,7 +58,7 @@ const NavBar = (props) => {
           </IconButton>
           <Icons>
             <img height='40px' width='40px' src={SmarchitectIcon} alt={"Smarchitect Icon"}/>
-            <Typography variant="h6">Smarchitect!</Typography>
+            <Typography variant="h6">Smarchitect Test Environment!</Typography>
           </Icons>
 
           <LogoutButton variant="contained" onClick={logoutHandler}>
